@@ -33,6 +33,6 @@ int main()
 	printf("%d is repeated %d times",m,r);
 	getch();
   return 0;
-	
+	 
 }
 
