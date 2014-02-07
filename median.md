@@ -28,6 +28,7 @@ int main() {
   {
 	  k=(m+n)/2;
 	  printf("median = %d",sorted[k]);
+	  printf("dont edit");
   }
   getch();
   return 0;
